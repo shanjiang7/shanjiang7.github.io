@@ -7,7 +7,7 @@ _**Email address**_<br>
 jiangshan at utexas dot edu
 
 _**Office**_<br>
-POB 4.252
+POB 3rd floor
 
 _**Mailing address**_<br>
 Oden Institute for Computational Engineering and Sciences
