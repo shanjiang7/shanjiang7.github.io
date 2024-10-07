@@ -4,23 +4,25 @@ docs:
 - title: Home
   url: index.html
 
-- title: Research
-  url: research.html
+- title: LinkedIN
+  url: https://www.linkedin.com/in/shan-jiang-022050235/
+#- title: Research
+#  url: research.html
 
-- title: Publications
-  url: publications.html
+#- title: Publications
+#  url: publications.html
 
-- title: Software
-  url: software.html
+#- title: Software
+#  url: software.html
     
 - title: Teaching
   url: teaching.html
   
-- title: Mentoring
-  url: mentoring.html
+#- title: Mentoring
+#  url: mentoring.html
 
-- title: Join us!
-  url: available_positions.html
+#- title: Join us!
+#  url: available_positions.html
 
 - title: Contact
   url: contact.html
