@@ -15,7 +15,7 @@ docs:
 #- title: Software
 #  url: software.html
 - title: Projects
-  url: project.html
+  url: Project.html
 
 - title: Teaching
   url: teaching.html

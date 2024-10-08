@@ -8,7 +8,7 @@ layout: project
 <!-- Project 1 -->
 <div id="twosided">
   <div id="left" style="float: left; max-width: 30%; margin-right: 20px; border: 0px solid #ccc;"> 
-    <img src="images/project1.png" alt="Project 1" style="width: 90%;" />
+    <img src="images/project1.png" alt="Project 1" style="width: 100%;" />
   </div>
   <div id="right" style="float: right; max-width: 65%;">
     <p><strong>Project 1: Learning Algebraic Variety through Optimization</strong></p>
@@ -21,7 +21,7 @@ layout: project
 <!-- Project 2 -->
 <div id="twosided" style="margin-top: 30px;">
   <div id="left" style="float: left; max-width: 30%; margin-right: 20px; border: 0px solid #ccc;"> 
-    <img src="images/project2.png" alt="Project 2" style="width: 90%;" />
+    <img src="images/project2.png" alt="Project 2" style="width: 100%;" />
   </div>
   <div id="right" style="float: right; max-width: 65%;">
     <p><strong>Project 2: Reinforcement Learning with Mountain Car Game</strong></p>
