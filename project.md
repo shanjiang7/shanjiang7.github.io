@@ -4,8 +4,7 @@ layout: project
 ---
 
 # Notable Projects
-<!-- Project 1 -->
-<div  class="twosided">
+<!-- <div  class="twosided">
   <div class="left" style="float: left; max-width: 30%; margin-right: 20px; border: 0px solid #ccc;"> 
     <img src="images/solution_N50_n10.0.png" alt="Project 1" style="width: 100%;" />
   </div>
@@ -27,9 +26,8 @@ layout: project
   </div>
 </div>
 
-<div style="clear: both;"></div>
+<div style="clear: both;"></div> -->
 
-<!-- Project 2 -->
 <div class="twosided">
   <div class="left" style="float: left; max-width: 30%; margin-right: 20px; border: 0px solid #ccc;"> 
     <img src="images/project1.png" alt="Project 3" style="width: 100%;" />
@@ -42,7 +40,6 @@ layout: project
 
 <div style="clear: both;"></div>
 
-<!-- Project 3 -->
 <div class="twosided" style="margin-top: 30px;">
   <div class="left" style="float: left; max-width: 30%; margin-right: 20px; border: 0px solid #ccc;"> 
     <img src="images/project2.png" alt="Project 4" style="width: 100%;" />
