@@ -13,7 +13,7 @@ layout: default
 <p> <b>Shan Jiang</b> <br> <em>Graduate Student</em> </p>
 <p> <a href="https://oden.utexas.edu" target="blank">Oden Institute for Computational Engineering and Sciences</a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
-<p> <a href="files/Resume_Shanjiang.pdf">Resume </a> </p>
+<p> <a href="files/Resume_ShanJiang.pdf">Resume </a> </p>
 </div>
 </div>
 <div id="clearer" style="clear: both"> </div>
