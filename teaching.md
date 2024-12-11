@@ -4,6 +4,7 @@ layout: default
 ---
 
 ### The University of Texas in Austin
+- MATH 340L Matrices And Matrix Calculation (*Teaching Assistant*, **Spring 2025**)
 - COE 352: Advanced Scientific Computation (*Teaching Assistant*, **Fall 2024**) 
 
 ### University of California, Los Angeles
