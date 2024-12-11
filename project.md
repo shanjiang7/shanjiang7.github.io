@@ -5,6 +5,7 @@ layout: project
 
 # Notable Projects
 
+
 <!-- Project 1 -->
 <div class="twosided">
   <div class="left">
@@ -12,7 +13,7 @@ layout: project
   </div>
   <div class="right">
     <p><strong>Project 1: Finite Element Solver for Poisson Equation over 2D Domain</strong></p>
-    <p>Key steps include mesh generation, stiffness matrix assembly, and result validation through error analysis. The project demonstrates expected theoretical convergence rates, confirming implementation accuracy. Tools used include Boost for testing, Valgrind for memory safety, and Docker for containerization. <a href="https://drive.google.com/file/d/1eZzuyFJ_aDWSCTdNZQfBNF4hQQj6d8Yw/view?usp=sharing" target="_blank">Project document.</a></p>
+    <p>test Key steps include mesh generation, stiffness matrix assembly, and result validation through error analysis. The project demonstrates expected theoretical convergence rates, confirming implementation accuracy. Tools used include Boost for testing, Valgrind for memory safety, and Docker for containerization. <a href="https://drive.google.com/file/d/1eZzuyFJ_aDWSCTdNZQfBNF4hQQj6d8Yw/view?usp=sharing" target="_blank">Project document.</a></p>
   </div>
 </div>
 
