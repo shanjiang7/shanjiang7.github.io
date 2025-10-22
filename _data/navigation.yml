@@ -6,8 +6,9 @@ docs:
 
 - title: LinkedIN
   url: https://www.linkedin.com/in/shan-jiang-022050235/
-#- title: Research
-#  url: research.html
+
+- title: Research
+ url: research.html
 
 #- title: Publications
 #  url: publications.html
