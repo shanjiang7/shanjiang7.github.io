@@ -27,6 +27,7 @@ I obtained my B.S. in Mathematics of Computation, graduating *cum laude*, from [
 In Summer 2025, I was a research intern at Baidu, where I worked in the deep learning framework group, widely known as [PaddlePaddle](https://www.paddlepaddle.org.cn/en).
 
 
+(Last updated: October 2025)
 
 
 
