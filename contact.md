@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: picture_left
+layout: default
 ---
 
 _**Email address**_<br>
